@@ -1,0 +1,98 @@
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/SUD_MKB/train.tsv
+Number of original entry:  24330
+******************** class 0 ********************
+Top 20 tokens by frequency: 
+ick
+nich
+up
+sick
+hadd
+em
+ok
+säd
+äwer
+dor
+Herr
+nah
+ehr
+min
+wi
+wedder
+bi
+vör
+jo
+hett
+
+Top 20 tokens by aggated score: 
+
+Top 20 tokens by tfidf: 
+nich
+säd
+äwer
+oll
+æwer
+würd
+gung
+ded
+wiren
+gahn
+dürten
+dörchläuchten
+kek
+beten
+blot
+sünd
+rep
+stunn
+möt
+bet
+
+
+******************** class 1 ********************
+Top 20 tokens by frequency: 
+dei
+nit
+et
+se
+diän
+dao
+sou
+iék
+diäm
+do
+iëck
+hai
+dä
+owwer
+nao
+harre
+siëck
+dai
+Un
+dät
+
+Top 20 tokens by aggated score: 
+
+Top 20 tokens by tfidf: 
+diän
+dao
+sou
+iëck
+iék
+diäm
+hai
+owwer
+dä
+dai
+nao
+dät
+siëck
+hiät
+guott
+ouk
+sau
+häär
+diär
+siék
+
+

@@ -1,0 +1,1151 @@
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/ACH
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/ACH/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/ACH/normal_result_1gram.csv
+Number of original entry:  9230
+Number of entry with correct prediction: 9150
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1118
+nich	373
+hei	235
+as	231
+se	228
+et	190
+mi	190
+sik	180
+he	170
+up	166
+
+Top 10 tokens by aggated score: 
+un	1075.593
+nich	358.852
+hei	226.086
+as	222.238
+se	219.352
+et	182.793
+mi	182.793
+sik	173.173
+he	163.552
+up	159.703
+
+Top 10 tokens by tfidf: 
+un	1145.0
+nich	373.0
+se	248.0
+hei	245.0
+as	232.0
+et	195.0
+mi	191.0
+sik	180.0
+he	174.0
+up	167.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+oet	2
+gin	2
+boer	2
+stuk	2
+visite	1
+raod	1
+effen	1
+wet	1
+waort	1
+veulen	1
+
+Top 10 tokens by aggated score: 
+boer	0.450
+oet	0.450
+stuk	0.450
+gin	0.450
+kriegt	0.225
+bodschap	0.225
+Was	0.225
+bolle	0.225
+Heerschap	0.225
+boodschap	0.225
+
+Top 10 tokens by tfidf: 
+oet	2.0
+gin	2.0
+boer	2.0
+stuk	2.0
+stool	1.0
+vallen	1.0
+uur	1.0
+umme	1.0
+toneelspöller	1.0
+tied	1.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/all_inference_result.out
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/all_inference_result.out/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/all_inference_result.out/normal_result_1gram.csv
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/DRE
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/DRE/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/DRE/normal_result_1gram.csv
+Number of original entry:  9231
+Number of entry with correct prediction: 9103
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1094
+nich	378
+se	210
+hei	210
+up	192
+mi	178
+sik	165
+em	161
+et	160
+ne	145
+
+Top 10 tokens by aggated score: 
+un	828.319
+nich	286.200
+hei	159.002
+se	158.995
+up	145.373
+mi	134.773
+sik	124.929
+em	121.900
+et	121.146
+ne	109.787
+
+Top 10 tokens by tfidf: 
+un	1127.0
+nich	378.0
+se	230.0
+hei	220.0
+up	194.0
+mi	178.0
+sik	165.0
+em	164.0
+et	164.0
+ne	152.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+maor	27
+hef	25
+zeg	23
+heur	20
+gien	19
+wal	16
+veur	16
+hum	15
+zien	13
+har	11
+
+Top 10 tokens by aggated score: 
+maor	26.435
+hef	24.517
+zeg	22.554
+heur	19.633
+gien	18.650
+veur	15.682
+wal	15.682
+hum	14.724
+zien	12.738
+har	10.798
+
+Top 10 tokens by tfidf: 
+maor	27.0
+hef	26.0
+zeg	23.0
+heur	20.0
+gien	19.0
+veur	16.0
+wal	16.0
+hum	15.0
+zien	13.0
+har	11.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/GRO
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/GRO/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/GRO/normal_result_1gram.csv
+Number of original entry:  9231
+Number of entry with correct prediction: 9229
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1087
+nich	382
+up	199
+se	193
+hei	192
+as	192
+et	174
+em	168
+ok	163
+sik	157
+
+Top 10 tokens by aggated score: 
+un	657.574
+nich	231.069
+up	120.382
+se	116.748
+as	116.149
+hei	116.147
+et	105.255
+em	101.625
+ok	98.603
+sik	94.971
+
+Top 10 tokens by tfidf: 
+un	1120.0
+nich	382.0
+se	209.0
+up	199.0
+hei	197.0
+as	195.0
+et	178.0
+em	170.0
+ok	164.0
+sik	157.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/HAM
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/HAM/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/HAM/normal_result_1gram.csv
+Number of original entry:  9220
+Number of entry with correct prediction: 8761
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+hei	189
+et	169
+as	165
+ok	152
+ne	149
+dei	135
+ick	123
+sick	91
+sin	90
+tau	85
+
+Top 10 tokens by aggated score: 
+hei	106.702
+et	95.405
+as	93.152
+ok	85.804
+ne	84.117
+dei	76.216
+ick	69.437
+sick	51.376
+sin	50.810
+tau	47.988
+
+Top 10 tokens by tfidf: 
+hei	193.0
+et	174.0
+as	169.0
+ne	154.0
+ok	152.0
+dei	141.0
+ick	128.0
+sick	91.0
+sin	91.0
+nit	85.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+Hein	21
+jo	14
+di	12
+wedder	11
+Godenwind	10
+sien	9
+Maike	9
+Fru	9
+no	8
+mol	7
+
+Top 10 tokens by aggated score: 
+Hein	18.887
+jo	12.465
+di	10.558
+wedder	9.658
+Godenwind	8.994
+Fru	8.094
+Maike	8.094
+sien	8.093
+no	7.195
+mol	6.061
+
+Top 10 tokens by tfidf: 
+hein	21.0
+jo	14.0
+di	12.0
+wedder	11.0
+godenwind	10.0
+sien	9.0
+fru	9.0
+maike	9.0
+no	8.0
+mol	7.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/HOL
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/HOL/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/HOL/normal_result_1gram.csv
+Number of original entry:  9223
+Number of entry with correct prediction: 8655
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+hei	200
+et	176
+up	168
+ne	157
+ick	138
+dei	127
+mi	127
+sick	95
+tau	81
+nit	78
+
+Top 10 tokens by aggated score: 
+hei	167.437
+et	147.334
+up	140.532
+ne	131.424
+ick	115.535
+mi	106.321
+dei	106.316
+sick	79.527
+tau	67.813
+nit	65.295
+
+Top 10 tokens by tfidf: 
+hei	208.0
+et	182.0
+up	169.0
+ne	160.0
+ick	141.0
+dei	135.0
+sick	95.0
+tau	81.0
+nit	80.0
+sin	80.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+he	61
+to	51
+harr	39
+dar	38
+Di	30
+ni	29
+sien	27
+Maren	27
+Paul	24
+Maria	21
+
+Top 10 tokens by aggated score: 
+he	55.675
+to	44.544
+harr	36.169
+dar	35.236
+Di	27.157
+ni	26.897
+Maren	25.039
+sien	24.176
+Paul	22.258
+Maria	19.476
+
+Top 10 tokens by tfidf: 
+he	66.0
+to	51.0
+harr	39.0
+dar	38.0
+di	30.0
+ni	29.0
+maren	27.0
+sien	27.0
+paul	24.0
+maria	21.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MAR
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MAR/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MAR/normal_result_1gram.csv
+Number of original entry:  9227
+Number of entry with correct prediction: 9207
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1077
+nich	360
+hei	214
+se	213
+as	195
+up	192
+et	168
+em	167
+mi	165
+sik	162
+
+Top 10 tokens by aggated score: 
+un	792.921
+nich	265.768
+hei	157.597
+se	157.090
+as	143.495
+up	141.540
+et	123.793
+em	123.186
+mi	121.772
+sik	119.506
+
+Top 10 tokens by tfidf: 
+un	1110.0
+nich	360.0
+hei	224.0
+se	224.0
+as	196.0
+up	192.0
+et	173.0
+em	170.0
+mi	165.0
+sik	162.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MKB
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MKB/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MKB/normal_result_1gram.csv
+Number of original entry:  9232
+Number of entry with correct prediction: 8941
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+se	203
+et	199
+sik	177
+dei	150
+he	149
+ne	117
+soe	87
+nit	86
+to	81
+harr	76
+
+Top 10 tokens by aggated score: 
+se	201.476
+et	198.265
+sik	176.232
+dei	149.396
+he	148.313
+ne	115.608
+soe	86.680
+nit	85.685
+to	80.577
+harr	75.544
+
+Top 10 tokens by tfidf: 
+se	221.0
+et	204.0
+sik	177.0
+dei	157.0
+he	152.0
+ne	117.0
+soe	89.0
+nit	87.0
+to	82.0
+harr	76.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+ick	139
+sick	79
+säd	71
+hadd	64
+tau	57
+Herr	56
+dor	54
+wi	47
+äwer	42
+nah	38
+
+Top 10 tokens by aggated score: 
+ick	137.767
+sick	77.502
+säd	70.178
+hadd	63.357
+tau	56.752
+Herr	55.307
+dor	53.183
+wi	45.260
+äwer	41.750
+nah	37.418
+
+Top 10 tokens by tfidf: 
+ick	143.0
+sick	79.0
+säd	71.0
+hadd	64.0
+tau	57.0
+herr	56.0
+dor	54.0
+wi	47.0
+äwer	42.0
+min	40.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MON
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MON/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/MON/normal_result_1gram.csv
+Number of original entry:  9236
+Number of entry with correct prediction: 9150
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1095
+nich	340
+hei	248
+se	226
+as	215
+et	202
+up	184
+mi	181
+sik	164
+he	163
+
+Top 10 tokens by aggated score: 
+un	462.019
+nich	143.458
+hei	104.640
+se	95.357
+as	90.716
+et	85.231
+up	77.636
+mi	76.370
+sik	69.197
+ick	68.776
+
+Top 10 tokens by tfidf: 
+un	1125.0
+nich	340.0
+hei	259.0
+se	248.0
+as	216.0
+et	207.0
+up	186.0
+mi	181.0
+he	166.0
+ick	165.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/NNI
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/NNI/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/NNI/normal_result_1gram.csv
+Number of original entry:  9232
+Number of entry with correct prediction: 9152
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1122
+nich	400
+hei	239
+se	226
+as	211
+up	192
+sik	179
+et	175
+em	171
+mi	166
+
+Top 10 tokens by aggated score: 
+un	700.078
+nich	249.583
+hei	149.125
+se	141.014
+as	131.654
+up	119.799
+sik	111.688
+et	109.192
+em	106.697
+mi	103.577
+
+Top 10 tokens by tfidf: 
+un	1155.0
+nich	400.0
+hei	247.0
+se	246.0
+as	214.0
+up	192.0
+sik	179.0
+et	178.0
+em	175.0
+mi	166.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/NPR
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/NPR/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/NPR/normal_result_1gram.csv
+Number of original entry:  9238
+Number of entry with correct prediction: 9205
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1080
+nich	370
+as	234
+se	227
+hei	205
+up	190
+et	180
+mi	180
+em	172
+ne	153
+
+Top 10 tokens by aggated score: 
+un	753.420
+nich	258.050
+as	163.277
+se	158.358
+hei	142.969
+up	132.535
+mi	125.546
+et	125.533
+em	119.990
+ne	106.703
+
+Top 10 tokens by tfidf: 
+un	1113.0
+nich	370.0
+se	239.0
+as	236.0
+hei	210.0
+up	190.0
+et	183.0
+mi	180.0
+em	176.0
+ne	157.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OFL
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OFL/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OFL/normal_result_1gram.csv
+Number of original entry:  9229
+Number of entry with correct prediction: 9068
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+as	209
+mi	175
+em	168
+he	159
+ick	157
+ok	147
+sick	109
+all	104
+to	100
+jo	94
+
+Top 10 tokens by aggated score: 
+as	29.622
+mi	24.801
+em	23.810
+he	22.535
+ick	22.251
+ok	20.833
+sick	15.449
+all	14.739
+to	14.173
+jo	13.322
+
+Top 10 tokens by tfidf: 
+as	212.0
+mi	175.0
+em	173.0
+he	164.0
+ick	162.0
+ok	148.0
+sick	109.0
+all	108.0
+to	100.0
+di	97.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+sä	36
+denne	27
+härre	24
+nü	23
+bie	23
+uk	22
+Willem	21
+tä	20
+wärren	19
+wi	18
+
+Top 10 tokens by aggated score: 
+sä	35.873
+denne	26.905
+härre	23.915
+bie	22.919
+nü	22.919
+uk	21.922
+Willem	20.926
+tä	19.929
+wärren	18.933
+wi	17.936
+
+Top 10 tokens by tfidf: 
+sä	36.0
+denne	27.0
+nü	25.0
+härre	24.0
+uk	23.0
+bie	23.0
+willem	21.0
+tä	21.0
+wärren	19.0
+lüe	18.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OFR
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OFR/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OFR/normal_result_1gram.csv
+Number of original entry:  9230
+Number of entry with correct prediction: 9205
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1027
+nich	360
+se	244
+hei	223
+as	203
+up	175
+sik	169
+et	166
+em	163
+mi	160
+
+Top 10 tokens by aggated score: 
+un	706.602
+nich	247.689
+se	167.878
+hei	153.430
+as	139.669
+up	120.405
+sik	116.276
+et	114.212
+em	112.148
+mi	110.084
+
+Top 10 tokens by tfidf: 
+un	1066.0
+nich	360.0
+se	266.0
+hei	230.0
+as	205.0
+up	178.0
+et	170.0
+sik	169.0
+em	168.0
+mi	160.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OVY
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OVY/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OVY/normal_result_1gram.csv
+Number of original entry:  9239
+Number of entry with correct prediction: 9189
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1089
+nich	389
+as	221
+se	216
+hei	215
+up	185
+et	173
+mi	168
+em	164
+he	163
+
+Top 10 tokens by aggated score: 
+un	223.132
+nich	79.695
+as	45.280
+se	44.250
+hei	44.053
+up	37.908
+et	35.440
+mi	34.428
+em	33.604
+he	33.395
+
+Top 10 tokens by tfidf: 
+un	1125.0
+nich	389.0
+se	238.0
+hei	221.0
+as	221.0
+up	188.0
+et	179.0
+em	169.0
+mi	168.0
+he	166.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+ie	12
+det	9
+ad	5
+eb	5
+ele	4
+wöör	3
+denk	3
+laaste	2
+Gees	2
+weke	2
+
+Top 10 tokens by aggated score: 
+ie	11.982
+det	8.987
+eb	4.993
+ad	4.993
+ele	3.985
+denk	2.996
+wöör	2.996
+kwam	1.997
+ebben	1.997
+döör	1.997
+
+Top 10 tokens by tfidf: 
+ie	12.0
+det	9.0
+ad	5.0
+eb	5.0
+ele	4.0
+wöör	3.0
+denk	3.0
+dag	2.0
+weke	2.0
+uut	2.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OWL
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OWL/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/OWL/normal_result_1gram.csv
+Number of original entry:  9237
+Number of entry with correct prediction: 9175
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+se	214
+hei	210
+as	202
+mi	162
+ok	147
+dei	136
+ne	136
+he	130
+ick	127
+sick	116
+
+Top 10 tokens by aggated score: 
+se	193.884
+hei	190.305
+as	183.059
+mi	146.804
+ok	133.168
+dei	123.248
+ne	123.245
+he	117.774
+ick	114.859
+sick	104.840
+
+Top 10 tokens by tfidf: 
+se	231.0
+hei	217.0
+as	205.0
+mi	163.0
+dei	148.0
+ok	147.0
+ne	137.0
+he	135.0
+ick	133.0
+sick	116.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+fan	69
+soe	61
+teo	59
+est	54
+os	52
+no	51
+Gott	48
+auk	46
+jiu	45
+hät	42
+
+Top 10 tokens by aggated score: 
+fan	67.232
+soe	59.436
+teo	57.496
+est	52.619
+os	50.665
+no	49.688
+Gott	46.770
+auk	44.815
+jiu	43.846
+hät	40.909
+
+Top 10 tokens by tfidf: 
+fan	69.0
+soe	65.0
+teo	59.0
+est	54.0
+os	52.0
+no	51.0
+gott	48.0
+auk	46.0
+jiu	45.0
+hät	42.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/SUD
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/SUD/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/SUD/normal_result_1gram.csv
+Number of original entry:  9243
+Number of entry with correct prediction: 8996
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+nich	362
+sik	176
+em	176
+up	175
+ok	139
+he	127
+ick	127
+to	123
+wi	88
+sick	84
+
+Top 10 tokens by aggated score: 
+nich	346.164
+em	168.290
+sik	167.358
+up	167.282
+ok	132.888
+he	121.448
+ick	121.261
+to	117.624
+wi	84.081
+sick	80.271
+
+Top 10 tokens by tfidf: 
+nich	362.0
+em	179.0
+sik	176.0
+up	176.0
+ok	139.0
+he	131.0
+ick	130.0
+to	123.0
+wi	88.0
+sick	84.0
+
+
+******************** class 1 ********************
+Top 10 tokens by frequency: 
+dei	119
+nit	85
+dao	43
+diän	38
+iék	32
+sin	31
+diäm	29
+sou	28
+nao	27
+siëck	26
+
+Top 10 tokens by aggated score: 
+dei	118.411
+nit	84.610
+dao	42.864
+diän	37.866
+iék	31.898
+sin	30.892
+diäm	28.907
+sou	27.909
+nao	26.409
+siëck	25.917
+
+Top 10 tokens by tfidf: 
+dei	124.0
+nit	86.0
+dao	46.0
+diän	39.0
+iék	32.0
+sin	32.0
+diäm	29.0
+sou	29.0
+nao	27.0
+dä	26.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
+----------------------------------------------------------
+-----------------------start---------------------------
+----------------------------------------------------------
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/TWE
+/scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/TWE/normal_result_1gram.csv
+File path:  /scratch/rxie/selfexplain/my-self-exp/data/de/pairwise/TWE/normal_result_1gram.csv
+Number of original entry:  9230
+Number of entry with correct prediction: 9171
+
+******************** class 0 ********************
+Top 10 tokens by frequency: 
+un	1128
+nich	375
+se	221
+as	219
+hei	209
+up	195
+em	171
+sik	162
+et	158
+mi	153
+
+Top 10 tokens by aggated score: 
+un	645.560
+nich	214.623
+se	126.421
+as	124.685
+hei	119.603
+up	111.606
+em	97.841
+sik	92.707
+et	90.431
+mi	87.569
+
+Top 10 tokens by tfidf: 
+un	1162.0
+nich	375.0
+se	239.0
+as	222.0
+hei	212.0
+up	195.0
+em	174.0
+sik	162.0
+et	162.0
+mi	153.0
+
+
+----------------------------------------------------------
+------------------------end-----------------------------
+----------------------------------------------------------
