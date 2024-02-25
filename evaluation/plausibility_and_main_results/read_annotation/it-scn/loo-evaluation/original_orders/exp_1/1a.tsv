@@ -1,0 +1,29 @@
+A computer program was trained to guess the dialect of a sentence based on the words in that sentence.  - You'll be shown a sentence from a dialect and the words that the computer is based on to make classification. - You'll be shown two different algorithms that the computer uses, and each algorithm is based on different words. - Each set of words is arranged in descending order of their importance. (the first word is most important, the second word is less important, and the thrid word is least important) - You need to decide which algorithm is better at explananing the computer's decision by answering the two questions. - Please use  x, y, b, n to denote your answer for Question 1. (try to use x and y instead of b and n)				
+Sentence	Algorithm X 	Algorithm Y	Question 1: should computer classify the sentence as venetian based on algorithm X (x), algorithm Y (y), both (b), or none (n)?	Question 2: if you answered none (n) in Question 1, what wrods should the computer base on?
+EXAMPLE on British English vs American English:  I need to find a garage to get the flat tyre on my car fixed	garage, tyre, car	flat, fixed, need	x 	
+EXAMPLE on British English vs American English:  I need to find an auto shop to get the flat tire on my car fixed	fixed, car, get	I, get, my	n 	tire, auto, shop
+lista di li tirrimoti abbinuti n italia n òrdini cronològgicu	di, italia, tirrimoti	italia, òrdini, cronològgicu		
+pi esempiu si dici ieri ci fu acqua assaimeteoruluggìa	ieri, assaimeteoruluggìa, esempiu	assaimeteoruluggìa, si, fu		
+supratuttu comu guida riliggiusa sutta li papintê sèculi chi vìnniru	sèculi, comu, papintê	supratuttu, comu, riliggiusa		
+currispunni â distanza tra lu suli e la terra chi è di circa miliuna di chilomitri	è, circa, e	currispunni, lu, è		
+ti di sòlitu cumprisa tra li e li km	di, km, sòlitu	ti, di, sòlitu		
+ti uccidintali dâ citàcanusciuta pi lorganizzazzioni ntirnazziunali ca hannu scigghiu	lorganizzazzioni, pi, uccidintali	dâ, citàcanusciuta, lorganizzazzioni		
+u bs rajneesh cu rifirimentu ô culuri dâ tùnica nnussata	bs, nnussata, rifirimentu	rajneesh, cu, rifirimentu		
+lu paisi chiamatu anticamenti garinis lu custruèru l	l, custruèru, lu	custruèru, lu, chiamatu		
+unali siciliana lu di jinnaru dû n artìculu aduzzioni dâ bannera la bannera dâ riggiuni è furmata dun	furmata, n, aduzzioni	jinnaru, artìculu, dâ		
+bbili facennu sabutaggiu di installazzioni o attinta	di, attinta, o	facennu, installazzioni, o		
+u grecu timeu di tauromeniu ntô ac	ac, ntô, grecu	timeu, ntô, grecu		
+stòrialuriggini dâ cità di scicli si pò allucari nnô pirìudu iii sìculu ca cumprenni lanni dô aprima di cristu nzinu a l ac	pirìudu, si, cristu	dâ, nnô, pirìudu		
+billie holiday di aprili di giugnettu canusciuta puru comu lady day fu una	aprili, canusciuta, puru	puru, comu, fu		
+ricustruitu ntô doppu cristu pi grazzia dô mpiraturi adrianu	dô, pi, doppu	cristu, grazzia, dô		
+i furu additicati na chiazza dô paisi e la marcia ca si pò cunziddirari l	paisi, e, cunziddirari	cunziddirari, dô, paisi		
+ê misi càudiô nternu di li cumulunemmi si ginìranu currenti ascinziunali di nutèvuli ntinzitati macari di m	nutèvuli, misi, ntinzitati	cumulunemmi, ginìranu, ascinziunali		
+quarchi minutuli cutuliati di tirrimotu sunnu urizzuntali ditti macari unnulatorî e virticali ditti macari sussurtorî nu tirrimotu pò èssiri furmatu di cu	pò, di, èssiri	cutuliati, ditti, macari		
+sta cosa succidìa sulu tra cristiani lu culusseu co	co, cristiani, sulu	succidìa, lu, culusseu		
+n matimàtica na seri è nesprissiuni dû tipu	na, matimàtica, è	n, tipu, nesprissiuni		
+roma addiventa ntonzi la capitali di litalia	ntonzi, di, addiventa	ntonzi, addiventa, capitali		
+ahoma city lu paisi cchiù curputu di li turnatu sunnu lusa e n particulari la zona dâ tornado alley ntô midwest si svilùppanu comu è gghiè a	city, midwest, a	curputu, sunnu, dâ		
+rinascimentu e umanesimufu sulu a pàrtiri dâ fini dû mediu evu versu lu sèculu xiv ca roma accuminza nàutra vota a affirmàrisi	fini, e, sulu	dâ, versu, sèculu		
+appoi macari scìchili appi a cascari sutta a l angiuini e sutta a ssa duminazzioni sèppiru moti contru ê francisi dopu lu famu	dopu, francisi, e	sèppiru, sutta, ssa		
+e chi appari giarnu sulu pi leffettu di assorbiment	pi, sulu, giarnu	appari, giarnu, leffettu		
+cumbattìvanu tra di iddi o chî bestî spissu a manu nudi o cu armi ruggiati	tra, manu, di	cumbattìvanu, spissu, nudi		

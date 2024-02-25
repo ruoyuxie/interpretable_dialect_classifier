@@ -1,0 +1,29 @@
+A computer program was trained to guess the dialect of a sentence based on the words in that sentence.  - You'll be shown a sentence from a dialect and the words that the computer is based on to make classification. - You'll be shown two different algorithms that the computer uses, and each algorithm is based on different words. - Each set of words is arranged in descending order of their importance. (the first word is most important, the second word is less important, and the thrid word is least important) - You need to decide which algorithm is better at explananing the computer's decision by answering the two questions. - Please use  x, y, b, n to denote your answer for Question 1. (try to use x and y instead of b and n)				
+Sentence	Algorithm X 	Algorithm Y	Question 1: should computer classify the sentence as Italian based on algorithm X (x), algorithm Y (y), both (b), or none (n)?	Question 2: if you answered none (n) in Question 1, what wrods should the computer base on?
+EXAMPLE on British English vs American English:  I need to find a garage to get the flat tyre on my car fixed	garage, tyre, car	flat, fixed, need	x 	
+EXAMPLE on British English vs American English:  I need to find an auto shop to get the flat tire on my car fixed	fixed, car, get	I, get, my	n 	tire, auto, shop
+il processo verbale della seduta di oggi sarà sottoposto allapprovazione del parlamento nella prossima tornata	della, verbale, sarà	tornata, sarà, seduta	b	
+possiamo solo accettare obiettivi vincolanti se sono realizzabili	sono, realizzabili, obiettivi	obiettivi, sono, accettare	b	
+abbiamo bisogno di entrambe e queste a loro volta si sosterranno a vicenda	loro, abbiamo, queste	di, si, a	b	
+la commissione non impone di farlo	farlo, non, commissione	commissione, impone, la	b	
+il secondo timore è che nel tentativo di compiere qualcosa di positivo faremo qualche danno	positivo, nel, qualche	il, danno, positivo	b	
+nellultimo decennio il mondo non si è riscaldato	si, mondo, il	si, non, riscaldato	b	
+il secondo punto è che limposizione di oneri elevati per alcuni paesi non significa minore responsabilità per altri	oneri, non, paesi	responsabilità, paesi, secondo	b	
+non sosteniamo che la soluzione migliore sia una piuttosto che laltra	soluzione, una, laltra	sia, una, la	b	
+inoltre il protocollo di kyoto attraverso gli scambi di quote di emissioni ha creato un nuovo mercato capitalistico	kyoto, ha, di	emissioni, kyoto, protocollo	y	
+per quanto attiene al progetto galileo il cui sviluppo è stato finora modesto dato che non	progetto, modesto, è	il, cui, sviluppo	b	
+ovviamente dovremmo in primo luogo cercare di persuadere la popolazione a non far uso di droghe illegali	la, popolazione, far	droghe, popolazione, di	b	
+i governi ragionevoli quali quello finlandese o britannico hanno già iniziato a muoversi in questo senso	britannico, muoversi, a	iniziato, governi, finlandese	y	
+primo la competitività ha bisogno della sostenibilità ma lo stesso vale per la sostenibilità che necessita della competitività	necessita, della, competitività	vale, competitività, per	b	
+tutti saranno coinvolti in questa azione	in, questa, azione	azione, saranno, questa	y	
+accolgo con favore gli sforzi della commissione per quanto riguarda la cooperazione internazionale e la legislazione interna	della, gli, legislazione	riguarda, per, commissione	y	
+correzioni e intenzioni di voto vedasi processo verbale	processo, intenzioni, di	voto, processo, verbale	b	
+en signora presidente finalmente ci spostiamo dagli obiettivi per andare verso gli strumenti	presidente, obiettivi, signora	presidente, obiettivi, andare	b	
+dobbiamo salire a bordo dei paesi più industrializzati ed è vostro dovere occuparvi di tale aspetto	paesi, dei, dobbiamo	bordo, tale, paesi	b	
+talvolta quando si discute di cambiamenti climatici cito quello che john stuart mill disse in merito al padre	in, disse, al	quello, mill, stuart	x 	
+da vari decenni le democrazie occidentali sono sensibili allesigenza di proteggere lambiente naturale	democrazie, sensibili, allesigenza	allesigenza, sono, di	x 	
+hu signora presidente membri della commissione vi ringrazio	della, presidente, commissione	signora, vi, presidente	b	
+leuropa sarà così in grado di sviluppare questo suo	sviluppare, sarà, grado	sarà, questo, grado	b	
+è una sensazione positiva vedere che leuropa sta assumendo un ruolo preminente nella terza rivoluzione industriale	leuropa, una, sta	leuropa, rivoluzione, sensazione	y	
+en signora presidente ormai quando salta fuori il tema dei cambiamenti climatici viene in genere indicato come riscaldamento globale	fuori, climatici, dei	presidente, signora, indicato	b	
+negli ultimi nove anni dal la temperatura globale del pianeta è rimasta inalterata	rimasta, inalterata, è	del, pianeta, globale	b	
