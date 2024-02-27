@@ -12,10 +12,10 @@ Both training code for LOO and selfExplain are placed in the `model` directory.
 
 ## Evaluation
 The evaluation code and data including `plasusibility`, `sufficiency`, and `human evaluation` are placed in the `evaluation` directory.
-
+<!-- 
 ## Citation
 If you use our tool, we'd appreciate if you cite the following paper:
 ```
 
 
-```
+``` -->
