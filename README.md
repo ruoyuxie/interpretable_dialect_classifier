@@ -24,5 +24,4 @@ If you use our tool, we'd appreciate if you cite the following paper:
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
-
 ```
